@@ -1,0 +1,20 @@
+{
+    "pass": {
+        "md5_changed": "Contraseña cambiada de md5 a bcript",
+        "incorrect": "Usuario o contraseña incorrectos.",
+        "no_match": "Las contraseñas no coinciden."        
+    }, 
+    "user": {
+        "registered": "El usuario ya está registrado.",
+        "register_error": "Error al registrar el usuario.",
+        "md5": "Registro exitoso en md5. Ahora puedes <a href='login.php'>iniciar sesión</a>.",
+        "bcript": "Registro exitoso en bcript. Ahora puedes <a href='login.php'>iniciar sesión</a>.",
+        "error_login": "Debe iniciar sesión para continuar",
+        "error_register": "Debe registrarse para continuar",
+        "error_admin": "Usted no tiene privilegios para esta página. <a href='index.php'>Inicio</a>."
+    },
+    "token": {
+        "invalid": "Token inválido o expirado.",
+        "wrong_data": "Datos erróneos."
+    }
+}
